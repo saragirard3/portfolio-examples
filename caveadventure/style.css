@@ -1,0 +1,26 @@
+body{
+    background-color: #134e13;
+;
+}
+
+#gameTitle{
+    background-color: forestgreen;
+    font-size: x-large;
+    color: mistyrose;
+    border-style: ridge;
+    border-color: darkgreen;
+    /*border-color: #8b228b;*/
+}
+
+#gameBody{
+    border-style: ridge;
+    border-color: rosybrown;
+    background-color: #fad6af;
+}
+
+.imageSquare{
+    /*border-style: double;*/
+    /*max-height: 500px;*/
+    /*max-width: 500px;*/
+}
+
